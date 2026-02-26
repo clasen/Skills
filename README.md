@@ -7,6 +7,7 @@ A personal collection of agent skills — reusable instruction sets that teach A
 | Skill | Description |
 |-------|-------------|
 | [skill-builder](./skill-builder/) | Interactive guide for creating new agent skills from scratch |
+| [namecheap-domains](./namecheap-domains/) | Manage domains through the Namecheap API — register, DNS, nameservers, transfers |
 
 ## skill-builder
 
