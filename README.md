@@ -8,6 +8,8 @@ A personal collection of agent skills — reusable instruction sets that teach A
 |-------|-------------|
 | [skill-builder](./skill-builder/) | Interactive guide for creating new agent skills from scratch |
 | [namecheap-domains](./namecheap-domains/) | Manage domains through the Namecheap API — register, DNS, nameservers, transfers |
+| [sharp](./sharp/) | Process images with Sharp — resize, convert formats, composite, effects, metadata |
+| [blocknote](./blocknote/) | Work with BlockNote rich text editor — document structure, block manipulation, inline content, styles |
 
 ## skill-builder
 
