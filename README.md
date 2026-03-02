@@ -6,6 +6,7 @@ A personal collection of agent skills — reusable instruction sets that teach A
 
 | Skill | Description |
 |-------|-------------|
+| [workflow-orchestration](./workflow-orchestration/) | Structured task execution — planning, progress tracking, verification, self-improvement |
 | [skill-builder](./skill-builder/) | Interactive guide for creating new agent skills from scratch |
 | [namecheap-domains](./namecheap-domains/) | Manage domains through the Namecheap API — register, DNS, nameservers, transfers |
 | [sharp](./sharp/) | Process images with Sharp — resize, convert formats, composite, effects, metadata |
@@ -26,7 +27,7 @@ A skill is a folder containing a `SKILL.md` file (with YAML frontmatter and Mark
 
 ## Agent behavior
 
-The [`AGENT.md`](./AGENT.md) file defines how the AI agent should behave across all sessions in this workspace. It establishes workflow orchestration rules, task management conventions, and core principles the agent follows automatically.
+The [`AGENT.md`](./AGENT.md) file defines how the AI agent should behave across all sessions in this workspace. The [workflow-orchestration](./workflow-orchestration/) skill is the portable version of these same rules, packaged as a skill that can be installed in any workspace.
 
 **Benefits:**
 - **Consistency** — the agent plans before acting, tracks progress, and verifies work without being asked
