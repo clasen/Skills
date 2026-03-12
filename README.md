@@ -7,6 +7,7 @@ A personal collection of agent skills — reusable instruction sets that teach A
 | Skill | Description |
 |-------|-------------|
 | [workflow-orchestration](./workflow-orchestration/) | Structured task execution — planning, progress tracking, verification, self-improvement |
+| [heavy-planner](./heavy-planner/) | Spec-first planning — interrogate requirements, surface unknowns, then produce structured specs |
 | [skill-builder](./skill-builder/) | Interactive guide for creating new agent skills from scratch |
 | [namecheap-domains](./namecheap-domains/) | Manage domains through the Namecheap API — register, DNS, nameservers, transfers |
 | [sharp](./sharp/) | Process images with Sharp — resize, convert formats, composite, effects, metadata |
